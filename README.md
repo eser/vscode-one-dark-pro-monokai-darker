@@ -1,6 +1,15 @@
-# One Dark Pro Monokai Darker
+# [One Dark Pro Monokai Darker](https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker)
 
-A Darker One Dark Pro variation with Monokai scheme.
+[![Version](https://vsmarketplacebadge.apphb.com/version/eserozvataf.one-dark-pro-monokai-darker.svg)](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker) [![Installs](https://vsmarketplacebadge.apphb.com/installs/eserozvataf.one-dark-pro-monokai-darker.svg)](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/eserozvataf.one-dark-pro-monokai-darker.svg)](https://marketplace.visualstudio.com/items?itemName=eserozvataf.one-dark-pro-monokai-darker)
+
+A darker variation of One Dark Pro theme for Visual Studio Code, with Monokai code coloring.
+
+## Installation
+
+Press `ctrl/command + shift + p` to launch the command palette, then run:
+```
+ext install eserozvataf.one-dark-pro-monokai-darker
+```
 
 ## Screenshots
 

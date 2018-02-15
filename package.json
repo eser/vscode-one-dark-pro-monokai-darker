@@ -1,40 +1,40 @@
 {
-	"name": "one-dark-pro-monokai-darker",
-	"displayName": "One Dark Pro Monokai Darker Theme",
-	"description": "A Darker One Dark Pro variation with Monokai scheme",
-	"version": "1.0.0",
-	"publisher": "eserozvataf",
-	"engines": {
-		"vscode": "^1.13.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "images/icon.png",
-	"contributes": {
-		"themes": [
-			{
-				"label": "One Dark Pro Monokai Darker",
-				"uiTheme": "vs-dark",
-				"path": "./themes/OneDarkProMonokaiDarker-color-theme.json"
-			}
-		]
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker.git"
-	},
-	"bugs": {
-		"url": "https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker/issues"
-	},
-	"homepage": "https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker/blob/master/README.md",
-	"keywords": [
-		"vscode",
-		"theme",
-		"onedark",
-		"monokai",
-		"darker"
-	],
-	"author": "Eser Ozvataf <eser@ozvataf.com> (http://eser.ozvataf.com)",
-	"license": "MIT"
+    "name": "one-dark-pro-monokai-darker",
+    "displayName": "One Dark Pro Monokai Darker Theme",
+    "description": "A Darker One Dark Pro variation with Monokai scheme",
+    "version": "1.1.0",
+    "publisher": "eserozvataf",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Pro Monokai Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneDarkProMonokaiDarker-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker.git"
+    },
+    "bugs": {
+        "url": "https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker/issues"
+    },
+    "homepage": "https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker/blob/master/README.md",
+    "keywords": [
+        "vscode",
+        "theme",
+        "onedark",
+        "monokai",
+        "darker"
+    ],
+    "author": "Eser Ozvataf <eser@ozvataf.com> (http://eser.ozvataf.com)",
+    "license": "MIT"
 }
