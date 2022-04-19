@@ -13,7 +13,8 @@
 		"list.inactiveSelectionForeground": "#d7dae0",
 		"list.hoverBackground": "#121212",
 		"list.highlightForeground": "#c5c5c5",
-		"button.background": "#528bff",
+		"button.background": "#396acb",
+		"button.hoverBackground": "#144ec3",
 		"scrollbarSlider.background": "#4e566680",
 		"scrollbarSlider.hoverBackground": "#5a637580",
 		"scrollbarSlider.activeBackground": "#747d9180",
@@ -60,7 +61,8 @@
 		"titleBar.activeBackground": "#020202",
 		"titleBar.inactiveBackground": "#020202",
 		"notification.background": "#181a1f",
-		"statusBar.debuggingBackground": "#020202"
+		"statusBar.debuggingBackground": "#020202",
+		"terminal.tab.activeBorder": "#C5C5C5"
 	},
 	"tokenColors": [
 		{
